@@ -37,7 +37,7 @@ A free, open-source tool to generate random email aliases for Gmail, Outlook, iC
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/email-alias-generator.git
+git clone https://github.com/qwegogo/email-alias-generator.git
 
 # Navigate to project directory
 cd email-alias-generator
