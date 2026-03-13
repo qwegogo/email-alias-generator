@@ -336,6 +336,13 @@ async function copyToClipboard() {
       <p>
         Email Alias Generator — Free & Open Source
         <br>
+        <a href="https://github.com/qwegogo/email-alias-generator" 
+           target="_blank" 
+           rel="noopener"
+           class="hover:underline">
+          GitHub
+        </a>
+        &nbsp;|&nbsp;
         <a href="https://kd05.com" 
            target="_blank" 
            rel="noopener"
